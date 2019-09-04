@@ -1,3 +1,5 @@
+## Decorators
+
 # Our decorator function
 def interior_decorator(func):
     def add_curtains():
